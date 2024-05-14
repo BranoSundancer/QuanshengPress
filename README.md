@@ -8,4 +8,4 @@ The objective of this project is to automate the operation of Quansheng UV-K5 (h
 
 ![gpredict](https://github.com/BranoSundancer/QuanshengPress/assets/127756743/03e5bb07-2f7c-45d9-a4c6-5c66f36b76c2)
 
-For satellite tracking with frequent frequency changes there is better (more stable & reliable, faster, PTT-aware) approach for this radio: [Quansheng Dock (**mod/om1atb**)](https://github.com/BranoSundancer/QuanshengDock-mod-om1atb/releases), which can be connected to [Hamlib](https://github.com/Hamlib/Hamlib)'s _rotctld_ as FT-991 (CAT COM interface) as presented in this [Facebook post](https://www.facebook.com/groups/289656334131909/posts/364416183322590/).
+For satellite tracking with frequent frequency changes there is better (more stable & reliable, faster, PTT-aware) approach for this radio: latest release of [Quansheng Dock](https://github.com/nicsure/QuanshengDock/releases/latest), which can be connected to [Hamlib](https://github.com/Hamlib/Hamlib)'s _rotctld_ as FT-991 (CAT COM interface) as presented in this [Facebook post](https://www.facebook.com/groups/289656334131909/posts/364416183322590/).
